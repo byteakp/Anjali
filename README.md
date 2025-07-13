@@ -2,6 +2,7 @@
 
 Anjali is a robust, interactive, and emotionally aware AI companion designed to provide a deeply engaging conversational experience. This project goes beyond a simple chatbot, incorporating voice, memory, and a dynamic personality to create a true digital friend.
 <img width="1917" height="831" alt="image" src="https://github.com/user-attachments/assets/56519b65-160f-4bd5-85fb-11387a209b69" />
+<img width="1917" height="831" alt="image" src="https://github.com/user-attachments/assets/dfdff151-0ccf-4876-9866-ceab3fcfb05a" />
 
 ## ✨ Features
 
