@@ -2,9 +2,10 @@ streamlit>=1.36.0
 openai
 requests
 Pillow
-chromadb==0.4.24
+chromadb==1.0.15
 python-dotenv
 transformers
+numpy<2.0 # Pinned to prevent numpy 2.0 compatibility issues with chromadb
 # torch and torchvision are now installed automatically by 'transformers'
 gTTS
 SpeechRecognition
