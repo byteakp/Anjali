@@ -25,7 +25,7 @@ Anjali is a robust, interactive, and emotionally aware AI companion designed to 
 
 ### 2. Clone & Setup Environment
 ```bash
-git clone <your-repository-url>
+git clone <repository-url>
 cd anjali-ai-companion
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
